@@ -1,0 +1,6 @@
+framework module Pods_Lianjia_Alliance_Franch_Example {
+  umbrella header "Pods-Lianjia_Alliance_Franch_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

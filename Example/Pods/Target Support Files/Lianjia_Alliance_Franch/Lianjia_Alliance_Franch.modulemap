@@ -1,0 +1,6 @@
+framework module Lianjia_Alliance_Franch {
+  umbrella header "Lianjia_Alliance_Franch-umbrella.h"
+
+  export *
+  module * { export * }
+}
