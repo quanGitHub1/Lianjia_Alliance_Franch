@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Lianjia_Alliance_Franch_Example' do
+  pod 'Lianjia_Alliance_Franch', :path => '../'
+
+  target 'Lianjia_Alliance_Franch_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
